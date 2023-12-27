@@ -1,0 +1,7 @@
+table, tr, th , td ,caption {
+    border: 1px solid black ;
+    font-size: 'courier New', courier , monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+
+}
